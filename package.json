@@ -1,6 +1,6 @@
 
 {
-  "name": "job-match-prototype",
+  "name": "psu-job-match",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "pdfjs-dist": "^3.4.120"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
